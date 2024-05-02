@@ -8,22 +8,22 @@
   "title": [
     {
       "lang": "en",
-      "text": "Welcome to join in our family"
+      "text": "About Freedreno"
     },
     {
       "lang": "zh_CN",
-      "text": "欢迎加入 银河旅者"
+      "text": "关于Freedreno渲染器"
     }
   ],
-  "date": "2024.04.02",
+  "date": "2024.05.03",
   "content": [
     {
       "lang": "en",
-      "text": "This launcher should be run on Android 8+ devices. It does not support the Apple platform. Thank you for joining us"
+      "text": "Freedreno only works on Snapdragon 710 | 712 | 720G | 730 | 730G | 732G | 750G | 480 | 690 | 765 | 765G | 845 | 850 | 855 | 855+ | 860 | 778G | 865 | 865+ | 888 | 888+"
     },
     {
       "lang": "zh_CN",
-      "text": "本启动器请在安卓8+设备上运行，不支持苹果平台，感谢加入"
+      "text": "Freedreno渲染器只能在骁龙 710 | 712 | 720G | 730 | 730G | 732G | 750G | 480 | 690 | 765 | 765G | 845 | 850 | 855 | 855+ | 860 | 778G | 865 | 865+ | 888 | 888+ 上使用。"
     }
   ]
 }
