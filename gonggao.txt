@@ -1,1 +1,29 @@
-欢迎使用⊙ω⊙
+{
+  "id": 3,
+  "significant": true,
+  "outdated": false,
+  "minVersion": -1,
+  "maxVersion": -1,
+  "specificLang": [],
+  "title": [
+    {
+      "lang": "en",
+      "text": "Welcome to join in our family"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "欢迎加入 银河旅者"
+    }
+  ],
+  "date": "2024.04.02",
+  "content": [
+    {
+      "lang": "en",
+      "text": "This launcher should be run on Android 8+ devices. It does not support the Apple platform. Thank you for joining us"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "本启动器请在安卓8+设备上运行，不支持苹果平台，感谢加入"
+    }
+  ]
+}
